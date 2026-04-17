@@ -5,8 +5,7 @@ import {
   MarkerLabel,
   MarkerPopup,
 } from "@/components/ui/map";
-import { Button } from "@/components/ui/button";
-import { Star, Navigation, Clock, ExternalLink, Calendar } from "lucide-react";
+import {  ExternalLink, Calendar } from "lucide-react";
 
 
 const places = [
